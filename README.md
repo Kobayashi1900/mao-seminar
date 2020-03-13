@@ -2,9 +2,9 @@
 大学 真央ゼミのWebサイト用リポジトリです。
 
 #　メンバー
-1
-2
-3
+1あ
+2い
+3う
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
