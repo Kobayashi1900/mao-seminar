@@ -5,6 +5,8 @@
 1ああ
 2いい
 3うう
+4ええ
+5おお
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
